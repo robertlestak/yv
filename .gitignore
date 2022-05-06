@@ -1,0 +1,6 @@
+rules/*.yaml
+test/*/*.yaml
+test/*.yaml
+.DS_Store
+*.swp
+bin
